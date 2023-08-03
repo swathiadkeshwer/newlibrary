@@ -9,7 +9,7 @@ def sub(a,b)
 
 }
 
-def sub(a,b)
+def mul(a,b)
 {
   echo "The sub of ${a} and ${b} is ${a-b}"
 
